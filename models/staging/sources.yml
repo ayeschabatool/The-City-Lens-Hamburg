@@ -21,3 +21,6 @@ sources:
       - name: building_blocks
       - name: air_quality_hamburg
         identifier: air_quality_hamburg_2015_2025
+      - name: population_data
+        identifier: population_data
+
